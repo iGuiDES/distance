@@ -575,6 +575,10 @@ body {
   border: 3px solid #1890ff;
 }
 
+.user-account-avatar {
+  margin-top: -45px;
+}
+
 .concuria,
 .user-account-avatar {
   background-image: url(../img/elipse.png);
